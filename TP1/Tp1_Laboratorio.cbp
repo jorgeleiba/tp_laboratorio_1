@@ -31,11 +31,11 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="../../codeblocks/Tp1_Laboratorio/calculadora.c">
+		<Unit filename="calculadora.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="../../codeblocks/Tp1_Laboratorio/calculadora.h" />
-		<Unit filename="../../codeblocks/Tp1_Laboratorio/main.c">
+		<Unit filename="calculadora.h" />
+		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>
