@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1599425670 source:c:\users\jorge\onedrive\escritorio\codeblocks\tp1_laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1599415696 c:\users\jorge\onedrive\escritorio\codeblocks\tp1_laboratorio\calculadora.h
+
+1599424634 source:c:\users\jorge\onedrive\escritorio\codeblocks\tp1_laboratorio\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+
