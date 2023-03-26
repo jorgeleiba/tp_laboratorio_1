@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1599400866 source:c:\users\jorge\onedrive\escritorio\codeblocks\cuartaclasemauricio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"GetNumero.h"
+
+1599400937 source:c:\users\jorge\onedrive\escritorio\codeblocks\cuartaclasemauricio\getnumero.c
+	<stdio.h>
+	<stdlib.h>
+
+1599400443 c:\users\jorge\onedrive\escritorio\codeblocks\cuartaclasemauricio\getnumero.h
+

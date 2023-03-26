@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598828299 source:c:\users\jorge\onedrive\escritorio\codeblocks\proyecto uno\proyectouno.c
+	<stdio.h>
+	<stdlib.h>
+

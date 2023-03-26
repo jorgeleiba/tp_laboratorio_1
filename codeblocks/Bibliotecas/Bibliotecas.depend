@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1599395823 source:c:\users\jorge\onedrive\escritorio\codeblocks\bibliotecas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+
+1599395981 c:\users\jorge\onedrive\escritorio\codeblocks\bibliotecas\utn.h
+
+1599395830 source:c:\users\jorge\onedrive\escritorio\codeblocks\bibliotecas\utn.c
+	<stdio.h>
+	<stdlib.h>
+

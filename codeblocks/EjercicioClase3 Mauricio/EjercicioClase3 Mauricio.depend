@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1599357581 source:c:\users\jorge\onedrive\escritorio\codeblocks\ejercicioclase3 mauricio\ejercicio funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1599357508 source:c:\users\jorge\onedrive\escritorio\codeblocks\ejercicioclase3 mauricio\averiguar el size.c
+	<stdio.h>
+	<stdlib.h>
+
+1599358329 source:c:\users\jorge\onedrive\escritorio\codeblocks\ejercicioclase3 mauricio\main.c
+	<stdio.h>
+	<stdlib.h>
+

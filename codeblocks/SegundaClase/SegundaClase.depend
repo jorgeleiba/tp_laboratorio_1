@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1599345593 source:c:\users\jorge\onedrive\escritorio\codeblocks\segundaclase\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1599351041 source:c:\users\jorge\onedrive\escritorio\codeblocks\segundaclase\ejercicio2.c
+	<stdio.h>
+	<stdlib.h>
+
